@@ -4,7 +4,7 @@ ArrayList persons = new ArrayList();
 
 // remplir la liste d’éléments
 
-Person p= new Person("khadre", "Fallou");
+Person p= new Person("dev1", "dev2");
 
 persons.add(p);
 
